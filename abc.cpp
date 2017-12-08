@@ -41,7 +41,7 @@ while(2)
 {
 gotoxy(29,4);
 printf("enter the given choise\n");
-printf("1:simple programing\t2:Desison programing\t3:loop programing");
+printf("1:simple programing\n2:Desison programing\t3:loop programing");
 
 printf("\n4:other types of program\t5:Exit\t6clear screen");
 scanf("%d",&ch1);
